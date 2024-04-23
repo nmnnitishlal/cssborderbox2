@@ -1,0 +1,142 @@
+p{
+    border:2px solid black;
+    width: 50px;
+    height:30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color:  white;
+    
+
+}
+p:hover{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 120px;
+    border-bottom-left-radius: 100px;
+
+}
+img{
+    width: 30px;
+    height: 20px;
+    display: flex;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+p:hover{
+    cursor: pointer;
+}
+div{
+    margin-left: 180px;
+}
+.te{
+    display: flex;
+}
+.hk{
+    display: flex;
+}
+.tl{
+    display: flex;
+}
+.tl{
+    display: flex;
+}
+.tp{
+    display: flex;
+}
+.hr{
+    display: flex;
+}
+.tamil{
+    background:linear-gradient(90deg,blue,lightblue);
+    padding-left: 120px;
+    padding-top: 80px;   
+}
+.English{
+    background: linear-gradient(90deg,red,rgba(255, 0, 0, 0.432));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.Hindi{
+    background: linear-gradient(90deg,pink,rgba(255, 192, 203, 0.212));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.kannada{
+    background: linear-gradient(90deg,orange,rgba(255, 166, 0, 0.293));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.telugu{
+    background:linear-gradient(90deg,violet,rgba(238, 130, 238, 0.259)) ;
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.love{
+    background: linear-gradient(90deg,grey,rgba(128, 128, 128, 0.305));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.trend{
+    background: linear-gradient(90deg,darkgreen,rgba(0, 100, 0, 0.297));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.parrty{
+    background: linear-gradient(90deg,rgba(255, 192, 203, 0.067),pink);
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.hip{
+    background: linear-gradient(90deg,brown,rgba(165, 42, 42, 0.287));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.radio{
+    background:linear-gradient(90deg,darkblue,rgba(0, 0, 139, 0.332));
+    padding-left: 120px;
+    padding-top: 80px;
+}
+button{
+    border-radius:10px;
+    width: 90px;
+    height: 40px;
+    margin-left: 890px;
+    border: 1px solid black;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color: green;
+}
+h1{
+    margin-left: 650px;
+    color: white;
+}
+.nglish{
+    width: 40px;
+}
+.elugu{
+    width: 40px;
+    height: 20px;
+}
+.ove{
+    width: 40px;
+    height: 20px;
+}
+.rend{
+    width: 50px;
+    height: 20px;
+}
+.arrty{
+    width: 50px;
+    height: 20px;
+}
+.ip{
+    width: 40px;
+    height: 20px;
+}
+.adio{
+    width: 40px;
+}
